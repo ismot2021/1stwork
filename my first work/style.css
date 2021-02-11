@@ -1,0 +1,58 @@
+h6{ 
+	font-weight: bold;
+	font-style:italic;
+	font-size: 16px;
+	margin-bottom:5px;
+	text-align: right;
+	
+}
+p{
+	
+	 font-style:italic;
+	 margin-top:0px;
+	 margin-bottom:0px;
+	 text-align: right;
+}
+div p{
+	margin-top:5px;
+	font-style:italic;
+
+
+	
+
+}
+ div h5{
+ 	
+ 	margin-top:5px;
+ 	font-style:italic;
+ 	margin-bottom:0px;
+ 	text-align: right;
+
+ }
+ div h6{
+ 	font-weight: normal;
+
+
+
+ }
+ div h3{
+ 	font-style:italic;
+ 	margin-bottom:0px;
+ }
+ div h4 {
+ 	font-weight: normal;
+ 	font-style:italic;
+ 	margin-top:0px;
+ 	margin-bottom: 3px;
+ }
+div.pera p{
+	text-align-last: left;
+	line-height:px ;
+	margin-bottom: 20px;
+
+
+} 
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
